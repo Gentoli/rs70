@@ -640,13 +640,13 @@ Text GLabel 4500 2100 0    50   Input ~ 0
 PB0
 Text GLabel 4500 2000 0    50   Input ~ 0
 PB1
-Text GLabel 7200 2400 0    50   Input ~ 0
+Text GLabel 7400 2400 0    50   Input ~ 0
 TDI
-Text GLabel 7200 2300 0    50   Input ~ 0
+Text GLabel 7400 2300 0    50   Input ~ 0
 TDO_TSWO
-Text GLabel 7200 2200 0    50   Input ~ 0
+Text GLabel 7400 2200 0    50   Input ~ 0
 TMS_SWDIO
-Text GLabel 7200 2100 0    50   Input ~ 0
+Text GLabel 7400 2100 0    50   Input ~ 0
 TCK_SWCLK
 Text GLabel 4500 2800 0    50   Input ~ 0
 TDO_TSWO
@@ -716,18 +716,18 @@ F 3 "~" H 3925 3050 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6300 2000 7200 2000
+	6300 2000 7400 2000
 Wire Wire Line
-	6300 1900 7200 1900
+	6300 1900 7400 1900
 $Comp
 L Connector:AVR-JTAG-10 J2
 U 1 1 60923812
-P 7700 2200
-F 0 "J2" H 7270 2246 50  0000 R CNN
-F 1 "AVR-JTAG-10" H 7270 2155 50  0000 R CNN
-F 2 "" V 7550 2350 50  0001 C CNN
-F 3 " ~" H 6425 1650 50  0001 C CNN
-	1    7700 2200
+P 7900 2200
+F 0 "J2" H 7470 2246 50  0000 R CNN
+F 1 "AVR-JTAG-10" H 7470 2155 50  0000 R CNN
+F 2 "" V 7750 2350 50  0001 C CNN
+F 3 " ~" H 6625 1650 50  0001 C CNN
+	1    7900 2200
 	-1   0    0    -1  
 $EndComp
 Text GLabel 10050 2000 2    50   Input ~ 0
