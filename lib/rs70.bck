@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RP605K
+D 300mA Ultra-low Power Buck Boost DC/DC Converter with Battery Monitor
+F https://www.n-redc.co.jp/en/pdf/datasheet/rp605-ea.pdf
+$ENDCMP
+#
+#End Doc Library
